@@ -8,7 +8,7 @@
 
 (<sup>:email:</sup>) corresponding author
 
-### [Project Page :globe_with_meridians:](https://immel-f.github.io/sdtagnet/)
+### [Project Page :globe_with_meridians:](https://immel-f.github.io/SDTagNet/)
 
 ### [ArXiv Preprint](https://arxiv.org/abs/2506.08997)
 
