@@ -1,0 +1,3 @@
+shapely==1.8.5.post1
+av2
+sentence-transformers
