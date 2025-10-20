@@ -1,1 +1,1 @@
-from .sdtagnet import M3TR
+from .m3tr import M3TR

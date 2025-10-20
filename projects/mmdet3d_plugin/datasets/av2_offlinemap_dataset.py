@@ -104,7 +104,7 @@ class CustomAV2OfflineLocalMapDataset(CustomNuScenesDataset):
                  osm_nlp_augment_drop_tags_el_rate=None,
                  osm_nlp_augment_drop_tags_rate=None, 
                  osm_nlp_augment_drop_non_relevant_tags_only=None, 
-                 use_streammapnet_map = False
+                 use_streammapnet_map = False,
                  *args, 
                  **kwargs):
         super().__init__(*args, **kwargs)

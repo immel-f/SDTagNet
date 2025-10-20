@@ -1,3 +1,4 @@
 shapely==1.8.5.post1
-av2
+av2==0.2.1
 sentence-transformers
+datasets

@@ -676,7 +676,7 @@ class VectorizedLocalMap(object):
         #         # plt.plot(x, y, color=colors_plt[gt_label_3d])
         #         # plt.scatter(x, y, color=colors_plt[gt_label_3d],s=1)
         # plt.imshow(car_img, extent=[-1.2, 1.2, -1.5, 1.5])
-        # gt_fixedpts_map_path = osp.join('/workspace/m3tr/gen_labels/nusc_no_prior_with_osm_map', 'GT_fixednum_pts_MAP.png')
+        # gt_fixedpts_map_path = osp.join('/workspace/sdtagnet/gen_labels/nusc_no_prior_with_osm_map', 'GT_fixednum_pts_MAP.png')
         # plt.savefig(gt_fixedpts_map_path, bbox_inches='tight', format='png',dpi=1200)
         # plt.close() 
 
@@ -753,7 +753,7 @@ class VectorizedLocalMap(object):
         #             plt.plot(line[:, 0], line[:, 1],linewidth=2,alpha=0.8, color='red')
 
         
-        # osm_map_path = osp.join('/workspace/m3tr/gen_labels/nusc_no_prior_with_osm_map', 'OSM_MAP.png')
+        # osm_map_path = osp.join('/workspace/sdtagnet/gen_labels/nusc_no_prior_with_osm_map', 'OSM_MAP.png')
         # # bbox_inches='tight'
         # plt.savefig(osm_map_path, format='png',dpi=1200)
         # plt.close()
